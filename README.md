@@ -40,11 +40,12 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=ClenildonFerreira&show_icons=true" />
-  </picture>
+
   <div>
     <a href="https://github.com/ClenildonFerreira">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClenildonFerreira&layout=compact&langs_count=7&theme=dracula"/> 
   </div>
+  </picture>
 </div>
 
 <h1 align="center">
