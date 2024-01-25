@@ -29,7 +29,7 @@
 </div>
 <br>
   
-<div align="center" >
+<div>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=ClenildonFerreira&show_icons=true&theme=dark"
