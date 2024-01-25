@@ -3,13 +3,20 @@
 # Olá, me chamo Clenildon ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em ...
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- 🔭 Atualmente estou trabalhando em como full Stack nas principais tecnologias de mercado como .NET, Spring Boot e Angular
+- 🌱 Atualmente estou aprendendo sobre front-end em especial React(next.js).
+- 👯 Estou procurando colaborar em em projetos Open Source
+- 🤔 Estou procurando ajuda com Java deus me acude
+- 💬 Pergunte-me sobre animes ~ee vc tera uma conversa de horas
+- 📫 Como entrar em contato comigo: clenildonferreira34@gmail.com ou pelo linkedin <b>in/clenildonferreira</b> 
+- ⚡ Curiosidade: Sou Amantes de bichinhos e da natureza
+  
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+          
+
+          
