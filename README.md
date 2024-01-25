@@ -28,7 +28,10 @@
 <a href="https://www.linkedin.com/in/clenildonferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
-  
+    <div>
+    <a href="https://github.com/ClenildonFerreira">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClenildonFerreira&layout=compact&langs_count=7&theme=dracula"/> 
+  </div>
 <div>
   <picture>
     <source
@@ -40,11 +43,6 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=ClenildonFerreira&show_icons=true" />
-
-  <div>
-    <a href="https://github.com/ClenildonFerreira">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClenildonFerreira&layout=compact&langs_count=7&theme=dracula"/> 
-  </div>
   </picture>
 </div>
 
