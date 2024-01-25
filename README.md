@@ -32,7 +32,7 @@
 <div align=center>
   <a href="https://github.com/ClenildonFerreira">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClenildonFerreira&layout=compact&langs_count=7&theme=dracula"/> 
-  <picture>
+  <!--<picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=ClenildonFerreira&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -42,7 +42,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=ClenildonFerreira&show_icons=true" />
-  </picture>
+  </picture> -->
 </div>
 <br/>
 <h1 align="center">
