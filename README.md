@@ -34,4 +34,4 @@
 </div>
 <br>
 
-![snake gif](https://github.com/ClenildonFerreira/ClenildonFerreira/ClenildonFerreira/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ClenildonFerreira/ClenildonFerreira/output/github-contribution-grid-snake.svg)
